@@ -1,4 +1,5 @@
-# Deprecated - A official version from AutoElevate currently exists in the community library, this is just here for reference from before the official script was available.
+# Deprecated
+A official version from AutoElevate currently exists in the community library, this is just here for reference from before the official script was available.
 ## AutoElevate Setup Script for SyncroMSP
 
 This script installs AutoElevate using fields pulled from SyncroMSP, reverting to defaults set in the script if the field doesn't exist in Syncro.
